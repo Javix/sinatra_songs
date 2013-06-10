@@ -1,0 +1,1 @@
+A simple Rack application using Sinatra.

@@ -13,3 +13,5 @@
 /project
 /public/
 /nbproject/
+.sass-cache/
+.bundle/
